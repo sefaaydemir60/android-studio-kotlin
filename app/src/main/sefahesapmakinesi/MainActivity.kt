@@ -1,4 +1,4 @@
-package com.muratertekhesapmakinesi
+package com.sefaaydemir.hesapmakinesi
 
 import android.os.Bundle
 import android.view.View
@@ -6,7 +6,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.ibrahimyazgi.hesapmakinesiodevi.databinding.ActivityMainBinding
+import com.sefaaydemir.hesapmakinesiodevi.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
